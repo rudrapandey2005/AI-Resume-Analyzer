@@ -12,7 +12,7 @@ An end-to-end Python web application built with Streamlit and Natural Language P
 - **Dual Portal Support:**
   - **Candidate View:** Upload resume, review extracted skill profiles, view layout scores, and get learning paths.
   - **Admin View:** Review historical applicant data and submission analytics.
-- **Clean File Hygiene:** Git-ignored upload management, clean folder architecture, and dynamic visitor metrics.
+- **Clean File Hygiene:** Git-ignored upload management,  clean folder architecture, and dynamic visitor metrics.
 
 ---
 
