@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+#.  AI Resume Analyzer
 
 An end-to-end Python web application built with Streamlit and Natural Language Processing (NLP) to parse PDF resumes, extract candidate skillsets, score structural completeness, and provide domain-specific course recommendations.
 
